@@ -8,6 +8,7 @@ Hello! My name is Akinori Kuramura! And I'll be working remotely to this new
 repository.!
 
 Master 1
+Master 2
 
 Hello! My Name is Akinori Kuramura again.. 
 and i am contributing to this repository, project open source!.
